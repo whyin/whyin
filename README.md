@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Whyin's%20GitHub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Whyin's%20GitHub&fontSize=60)
 
 ## 백엔드 개발자 김영인
 Java · Spring Boot 기반으로 웹 애플리케이션을 설계·구현하는 백엔드 개발자입니다. </br>
